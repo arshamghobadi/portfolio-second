@@ -130,10 +130,10 @@
   "projectsData": [
     {
       "id": 1,
-      "title": "Nicki Shop",
-      "demo": "https://enchanting-platypus-acacab.netlify.app",
-      "SourceCode": "https://github.com/arshamghobadi",
-      "discription": "Introducing my first e-commerce website, a culmination of my year-long journey in programming. Built with modern technologies like React, Redux, and Bootstrap CSS, the website delivers a seamless shopping experience for customers. With a focus on functionality, the website offers a user-friendly interface and smooth navigation for a hassle-free shopping experience. From browsing products to making secure purchases, this website has it all."
+      "title": "Gym app",
+      "demo": "https://gym-app-beige.vercel.app",
+      "SourceCode": "https://github.com/arshamghobadi/gym-app",
+      "discription": "I'm proud to showcase a gym app web page that I created using the latest web technologies such as React, Tailwind, Motion, and Framer. This app was designed with fitness enthusiasts in mind, providing them with an intuitive and enjoyable experience that helps them achieve their fitness goals.With a clean and modern user interface, users can easily navigate the app, personalize their workouts, track their progress, and receive nutrition advice. Our app also incorporates advanced security measures to protect user data and ensure peace of mind while using it."
     },
     {
       "id": 2,
@@ -162,6 +162,13 @@
       "demo": "https://darookhaneonline.com",
       "SourceCode": "https://github.com/arshamghobadi",
       "discription": "With two years of experience in the online pharmacy industry, I am proud to have recently been promoted to the role of General Manager. In this role, I oversee all operations of the pharmacy, from website content creation to customer service and everything in between. My strong communication skills and ability to lead a team have allowed me to successfully navigate the complex and rapidly evolving world of online pharmaceuticals. I am committed to providing the highest level of customer satisfaction, and am always striving to improve our processes and services to better serve our patients."
+    },
+    {
+      "id": 6,
+      "title": "Nicki Shop",
+      "demo": "https://enchanting-platypus-acacab.netlify.app",
+      "SourceCode": "https://github.com/arshamghobadi",
+      "discription": "Introducing my first e-commerce website, a culmination of my year-long journey in programming. Built with modern technologies like React, Redux, and Bootstrap CSS, the website delivers a seamless shopping experience for customers. With a focus on functionality, the website offers a user-friendly interface and smooth navigation for a hassle-free shopping experience. From browsing products to making secure purchases, this website has it all."
     }
   ]
 }
