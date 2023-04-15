@@ -130,11 +130,12 @@
   "projectsData": [
     {
       "id": 1,
-      "title": "Gym app",
-      "demo": "https://gym-app-beige.vercel.app",
-      "SourceCode": "https://github.com/arshamghobadi/gym-app",
-      "discription": "I'm proud to showcase a gym app web page that I created using the latest web technologies such as React, Tailwind, Motion, and Framer. This app was designed with fitness enthusiasts in mind, providing them with an intuitive and enjoyable experience that helps them achieve their fitness goals.With a clean and modern user interface, users can easily navigate the app, personalize their workouts, track their progress, and receive nutrition advice. Our app also incorporates advanced security measures to protect user data and ensure peace of mind while using it."
+      "title": "Airbnb",
+      "demo": "https://rent-app-mu.vercel.app",
+      "SourceCode": "https://github.com/arshamghobadi/airbnb-app",
+      "discription": "The app you have created is a web-based platform that allows users to find and book a variety of accommodations and experiences in various locations around the world. Using Next.js, Prisma, MongoDB, and Next-Auth, you have created a fast and efficient system that allows users to easily search for and book their ideal accommodations.Next.js is a React-based framework that allows for efficient server-side rendering and helps to improve the performance of the app. Prisma is a modern database tool that allows for easy and efficient management of data, while MongoDB is a NoSQL database that provides scalability and flexibility. Next-Auth is a powerful authentication library that allows for secure user authentication and authorization.Using this technology stack, your app provides users with a seamless and secure experience, allowing them to browse through listings, view photos and descriptions, and make bookings. The app also includes features such as messaging, reviews, and ratings, which allows users to communicate with hosts and other travelers to make informed decisions.Overall, the app you have created is a powerful and user-friendly platform that helps travelers find and book unique and exciting accommodations around the world."
     },
+
     {
       "id": 2,
       "title": "crypto-currency-project",
@@ -151,17 +152,17 @@
     },
     {
       "id": 4,
-      "title": "darubama",
-      "demo": "https://enchanting-platypus-acacab.netlify.app",
-      "SourceCode": "https://github.com/arshamghobadi",
-      "discription": "After two successful years as General Manager at an online pharmacy, I took on a new challenge as Manager at another reputable online pharmaceutical company. In this role, I was responsible for all aspects of the website, from content creation to customer service and website management. My strong leadership skills and passion for the industry allowed me to drive the pharmacy to new heights of success, ensuring a seamless customer experience and maintaining high levels of patient satisfaction. With two years of experience as a Manager in the online pharmacy space, I am confident in my ability to lead and drive results in a fast-paced and ever-evolving industry."
+      "title": "Gym app",
+      "demo": "https://gym-app-beige.vercel.app",
+      "SourceCode": "https://github.com/arshamghobadi/gym-app",
+      "discription": "I'm proud to showcase a gym app web page that I created using the latest web technologies such as React, Tailwind, Motion, and Framer. This app was designed with fitness enthusiasts in mind, providing them with an intuitive and enjoyable experience that helps them achieve their fitness goals.With a clean and modern user interface, users can easily navigate the app, personalize their workouts, track their progress, and receive nutrition advice. Our app also incorporates advanced security measures to protect user data and ensure peace of mind while using it."
     },
     {
       "id": 5,
-      "title": "darookhaneonline",
-      "demo": "https://darookhaneonline.com",
-      "SourceCode": "https://github.com/arshamghobadi",
-      "discription": "With two years of experience in the online pharmacy industry, I am proud to have recently been promoted to the role of General Manager. In this role, I oversee all operations of the pharmacy, from website content creation to customer service and everything in between. My strong communication skills and ability to lead a team have allowed me to successfully navigate the complex and rapidly evolving world of online pharmaceuticals. I am committed to providing the highest level of customer satisfaction, and am always striving to improve our processes and services to better serve our patients."
+      "title": "Google",
+      "demo": "https://google-psi-hazel.vercel.app",
+      "SourceCode": "https://github.com/arshamghobadi/google",
+      "discription": "Introducing Google, the powerful search engine that helps you find exactly what you're looking for. With lightning-fast results, you can easily search for websites, images, videos, news articles, and more with just a few clicks.Our advanced algorithms ensure that your search results are accurate and relevant, and our user-friendly interface makes it easy to browse through your results and find exactly what you need. Whether you're searching for the latest news, the best deals, or simply want to explore the web, Google is the perfect tool for the job.With features like autocomplete suggestions, spelling corrections, and personalized search results, you'll never have to waste time sifting through irrelevant pages again. Plus, our advanced privacy settings keep your search history safe and secure.So why wait? Try Google today and experience the power of a search engine designed with you in mind."
     },
     {
       "id": 6,
